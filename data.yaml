@@ -1,0 +1,22 @@
+# File: coco_custom.yaml
+
+# Train and validation image directories
+train: /content/drive/MyDrive/COCO_dataset/train/images # Path to training images
+val: /content/drive/MyDrive/COCO_dataset/val/images # Path to validation images
+
+nc: 10
+
+# Class names
+names:
+  [
+    "dog",
+    "surfboard",
+    "kite",
+    "fire hydrant",
+    "boat",
+    "bowl",
+    "wine glass",
+    "baseball bat",
+    "giraffe",
+    "cat",
+  ]

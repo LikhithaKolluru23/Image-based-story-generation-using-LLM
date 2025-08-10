@@ -71,7 +71,7 @@ The approach aims to go beyond simple image captioning by generating **coherent,
 ---
 
 ### Example Narrative
-**Detected Object:** <img src="https://drive.google.com/file/d/1jDhldW9WOSuwRRx_bsUP63GA_pSZQCOD/view?usp=drive_link" width="500">
+**Detected Object:** <img src="img.png" width="500">
  
 **Generated Story:**
 > ”Once upon a time, in a vast savannah,

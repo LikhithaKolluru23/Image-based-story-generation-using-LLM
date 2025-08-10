@@ -70,6 +70,7 @@ The approach aims to go beyond simple image captioning by generating **coherent,
 
 ### Example Narrative
 **Detected Object:** 
+
 <img src="img.png" width="500">
  
 **Generated Story:**

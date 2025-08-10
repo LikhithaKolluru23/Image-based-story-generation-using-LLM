@@ -1,7 +1,5 @@
-# Image-based Story Generation
+# Image-based Story Generation (Multimodal AI project)
 
-**Program:** Master of Science in Artificial Intelligence  
-**University:** University of Michigan–Dearborn  
 **Author:** Likhitha Kolluru  
 
 ---
@@ -71,7 +69,8 @@ The approach aims to go beyond simple image captioning by generating **coherent,
 ---
 
 ### Example Narrative
-**Detected Object:** <img src="img.png" width="500">
+**Detected Object:** 
+<img src="img.png" width="500">
  
 **Generated Story:**
 > ”Once upon a time, in a vast savannah,
